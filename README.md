@@ -20,5 +20,8 @@ git repo copied from https://github.com/ECE444-2022Fall/Assignment_1_starter_tem
 ## Activity 4
 ### docker build command message 
 ![image6](ActivityScreenshots/image6.png)
-### docker run 
+### docker run and log information indicating running
+### used 3000 instead, 5000 was not available 
 ![image7](ActivityScreenshots/image7.png)
+### website running on local host 3000
+![image9](ActivityScreenshots/image9.png)
