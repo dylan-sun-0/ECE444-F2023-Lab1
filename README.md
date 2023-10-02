@@ -15,3 +15,9 @@ git repo copied from https://github.com/ECE444-2022Fall/Assignment_1_starter_tem
 ![image4](ActivityScreenshots/image4.png)
 ### Screenshot of commit 
 ![image5](ActivityScreenshots/image5.png)
+
+## Activity 3
+### docker build command message 
+![image6](ActivityScreenshots/image6.png)
+### docker run 
+![image7](ActivityScreenshots/image7.png)
