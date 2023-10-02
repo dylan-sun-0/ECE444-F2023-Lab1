@@ -13,3 +13,5 @@ git repo copied from https://github.com/ECE444-2022Fall/Assignment_1_starter_tem
 ## Activity 3
 ### New docker message in app local
 ![image4](ActivityScreenshots/image4.png)
+### Screenshot of commit 
+![image5](ActivityScreenshots/image5.png)
